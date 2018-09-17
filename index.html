@@ -1,10 +1,13 @@
 <html>
-  <body>
-    <script src="src/foam.js"></script>
-    <script>
-      foam.__context__.classloader.load('foam.classloader.WebModelDisplayer').then(function(cls) {
-        cls.create().fromQuery().execute();
-      });
-    </script>
-  </body>
+<head>
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <script language="javascript" src="foam2/src/foam.js"></script>
+    <script src="Phone.js"></script>
+    <script src="phones.js"></script>
+    <script src="Controller.js"></script>
+</head>
+<body>
+<foam class="tutorial.Controller"></foam>
+</body>
 </html>
