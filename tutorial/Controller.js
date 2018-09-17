@@ -5,7 +5,6 @@ foam.CLASS({
 
   exports: [
     'as data',
-    'dao',
   ],
 
   properties: [
@@ -77,11 +76,8 @@ foam.CLASS({
   package: 'tutorial',
   name: 'PhoneDetialView',
   extends: 'foam.u2.DetailView',
-  imports: [
-    'dao'
-  ],
+
   properties: [
-    'data',
     'image'
   ],
 
@@ -355,12 +351,6 @@ foam.CLASS({
   package: 'tutorial',
   name: 'PhoneCitationView',
   extends: 'foam.u2.DetailView',
-  imports: [
-    'dao'
-  ],
-  properties: [
-    'data'
-  ],
 
   methods: [
     function initE() {
