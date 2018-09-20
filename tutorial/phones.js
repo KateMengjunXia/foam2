@@ -5,7 +5,7 @@ var rawPhones = [
     "id": "motorola-xoom-with-wi-fi",
     "age": 0,
     "imageUrl": "./img/phones/motorola-xoom-with-wi-fi.0.jpg",
-    "name": "Motorola XOOM™ with Wi-Fi",
+    "name": "Motorola XOOM\u2122 with Wi-Fi",
     "snippet": "The Next, Next Generation\u000d\u000a\u000d\u000aExperience the future with Motorola XOOM with Wi-Fi, the world's first tablet powered by Android 3.0 (Honeycomb).",
     "additionalFeatures": "Sensors: proximity, ambient light, barometer, gyroscope",
     "android": {
@@ -34,7 +34,7 @@ var rawPhones = [
       "infrared": false,
       "wifi": "802.11 b/g/n"
     },
-    "description": "Motorola XOOM with Wi-Fi has a super-powerful dual-core processor and Android™ 3.0 (Honeycomb) — the Android platform designed specifically for tablets. With its 10.1-inch HD widescreen display, you’ll enjoy HD video in a thin, light, powerful and upgradeable tablet.",
+    "description": "Motorola XOOM with Wi-Fi has a super-powerful dual-core processor and Android\u2122 3.0 (Honeycomb) — the Android platform designed specifically for tablets. With its 10.1-inch HD widescreen display, you’ll enjoy HD video in a thin, light, powerful and upgradeable tablet.",
     "display": {
       "screenResolution": "WXGA (1200 x 800)",
       "screenSize": "10.1 inches",
@@ -74,7 +74,7 @@ var rawPhones = [
     "id": "motorola-xoom",
     "age": 1,
     "imageUrl": "./img/phones/motorola-xoom.0.jpg",
-    "name": "MOTOROLA XOOM™",
+    "name": "MOTOROLA XOOM\u2122",
     "snippet": "The Next, Next Generation\u000a\u000aExperience the future with MOTOROLA XOOM, the world's first tablet powered by Android 3.0 (Honeycomb).",
     "additionalFeatures": "Front-facing camera. Sensors: proximity, ambient light, barometer, gyroscope.",
     "android": {
@@ -103,7 +103,7 @@ var rawPhones = [
       "infrared": false,
       "wifi": "802.11 a/b/g/n"
     },
-    "description": "MOTOROLA XOOM has a super-powerful dual-core processor and Android™ 3.0 (Honeycomb) — the Android platform designed specifically for tablets. With its 10.1-inch HD widescreen display, you’ll enjoy HD video in a thin, light, powerful and upgradeable tablet.",
+    "description": "MOTOROLA XOOM has a super-powerful dual-core processor and Android\u2122 3.0 (Honeycomb) — the Android platform designed specifically for tablets. With its 10.1-inch HD widescreen display, you’ll enjoy HD video in a thin, light, powerful and upgradeable tablet.",
     "display": {
       "screenResolution": "WXGA (1200 x 800)",
       "screenSize": "10.1 inches",
@@ -140,7 +140,7 @@ var rawPhones = [
     "id": "motorola-atrix-4g",
     "age": 2,
     "imageUrl": "./img/phones/motorola-atrix-4g.0.jpg",
-    "name": "MOTOROLA ATRIX™ 4G",
+    "name": "MOTOROLA ATRIX\u2122 4G",
     "snippet": "MOTOROLA ATRIX 4G the world's most powerful smartphone.",
     "additionalFeatures": "",
     "android": {
@@ -148,7 +148,7 @@ var rawPhones = [
       "ui": "MOTOBLUR"
     },
     "availability": [
-      "AT&amp;T"
+      "AT\x26T"
     ],
     "battery": {
       "standbyTime": "400 hours",
@@ -207,7 +207,7 @@ var rawPhones = [
     "age": 3,
     "imageUrl": "./img/phones/dell-streak-7.0.jpg",
     "name": "Dell Streak 7",
-    "snippet": "Introducing Dell™ Streak 7. Share photos, videos and movies together. It’s small enough to carry around, big enough to gather around.",
+    "snippet": "Introducing Dell\u2122 Streak 7. Share photos, videos and movies together. It's small enough to carry around, big enough to gather around.",
     "additionalFeatures": "Front Facing 1.3MP Camera",
     "android": {
       "os": "Android 2.2",
@@ -235,7 +235,7 @@ var rawPhones = [
       "infrared": false,
       "wifi": "802.11 b/g"
     },
-    "description": "Introducing Dell™ Streak 7. Share photos, videos and movies together. It’s small enough to carry around, big enough to gather around. Android™ 2.2-based tablet with over-the-air upgrade capability for future OS releases.  A vibrant 7-inch, multitouch display with full Adobe® Flash 10.1 pre-installed.  Includes a 1.3 MP front-facing camera for face-to-face chats on popular services such as Qik or Skype.  16 GB of internal storage, plus Wi-Fi, Bluetooth and built-in GPS keeps you in touch with the world around you.  Connect on your terms. Save with 2-year contract or flexibility with prepaid pay-as-you-go plans",
+    "description": "Introducing Dell\u2122 Streak 7. Share photos, videos and movies together. It’s small enough to carry around, big enough to gather around. Android\u2122 2.2-based tablet with over-the-air upgrade capability for future OS releases.  A vibrant 7-inch, multitouch display with full Adobe\xAE Flash 10.1 pre-installed.  Includes a 1.3 MP front-facing camera for face-to-face chats on popular services such as Qik or Skype.  16 GB of internal storage, plus Wi-Fi, Bluetooth and built-in GPS keeps you in touch with the world around you.  Connect on your terms. Save with 2-year contract or flexibility with prepaid pay-as-you-go plans",
     "display": {
       "screenResolution": "WVGA (800 x 480)",
       "screenSize": "7.0 inches",
@@ -274,9 +274,9 @@ var rawPhones = [
     "id": "samsung-gem",
     "age": 4,
     "imageUrl": "./img/phones/samsung-gem.0.jpg",
-    "name": "Samsung Gem™",
-    "snippet": "The Samsung Gem™ brings you everything that you would expect and more from a touch display smart phone – more apps, more features and a more affordable price.",
-    "additionalFeatures": "3.2” Full touch screen with Advanced anti smudge, anti reflective and anti scratch glass; Swype text input for easy and fast message creation; multiple messaging options, including text with threaded messaging for organized, easy-to-follow text; Social Community support, including Facebook and MySpace; Next generation Address book; Visual Voice Mail\u000a",
+    "name": "Samsung Gem\u2122",
+    "snippet": "The Samsung Gem\u2122 brings you everything that you would expect and more from a touch display smart phone - more apps, more features and a more affordable price.",
+    "additionalFeatures": "3.2\x22 Full touch screen with Advanced anti smudge, anti reflective and anti scratch glass; Swype text input for easy and fast message creation; multiple messaging options, including text with threaded messaging for organized, easy-to-follow text; Social Community support, including Facebook and MySpace; Next generation Address book; Visual Voice Mail\u000a",
     "android": {
       "os": "Android 2.1",
       "ui": "TouchWiz"
@@ -302,7 +302,7 @@ var rawPhones = [
       "infrared": false,
       "wifi": "802.11 b/g"
     },
-    "description": "The Samsung Gem™ maps a route to a smarter mobile experience. By pairing one of the fastest processors in the category with the Android™ platform, the Gem delivers maximum multitasking speed and social networking capabilities to let you explore new territory online. A smart phone at an even smarter price is a real find, so uncover the Gem and discover what’s next.",
+    "description": "The Samsung Gem\u2122 maps a route to a smarter mobile experience. By pairing one of the fastest processors in the category with the Android\u2122 platform, the Gem delivers maximum multitasking speed and social networking capabilities to let you explore new territory online. A smart phone at an even smarter price is a real find, so uncover the Gem and discover what’s next.",
     "display": {
       "screenResolution": "WQVGA (400 x 240)",
       "screenSize": "3.2 inches",
@@ -347,7 +347,7 @@ var rawPhones = [
       "ui": "Dell Stage"
     },
     "availability": [
-      "AT&amp;T,",
+      "AT\x26T,",
       "KT,",
       "T-Mobile"
     ],
@@ -549,15 +549,15 @@ var rawPhones = [
     "id": "samsung-galaxy-tab",
     "age": 8,
     "imageUrl": "./img/phones/samsung-galaxy-tab.0.jpg",
-    "name": "Samsung Galaxy Tab™",
-    "snippet": "Feel Free to Tab™. The Samsung Galaxy Tab™ brings you an ultra-mobile entertainment experience through its 7” display, high-power processor and Adobe® Flash® Player compatibility.",
-    "additionalFeatures": "Adobe® Flash® Player compatible; 1.3MP front-facing camera for video chat; eReader pre-loaded; Swype text input technology\u000d\u000a",
+    "name": "Samsung Galaxy Tab\u2122",
+    "snippet": "Feel Free to Tab\u2122. The Samsung Galaxy Tab\u2122 brings you an ultra-mobile entertainment experience through its 7\x22 display, high-power processor and Adobe\xAE Flash\xAE Player compatibility.",
+    "additionalFeatures": "Adobe\xAE Flash\xAE Player compatible; 1.3MP front-facing camera for video chat; eReader pre-loaded; Swype text input technology\u000d\u000a",
     "android": {
       "os": "Android 2.2",
       "ui": "TouchWiz"
     },
     "availability": [
-      "AT&amp;T,",
+      "AT\x26T,",
       "Sprint,",
       "T-Mobile,",
       "Verizon"
@@ -576,12 +576,12 @@ var rawPhones = [
     },
     "connectivity": {
       "bluetooth": "Bluetooth 3.0",
-      "cell": "AT&amp;T: GSM/EDGE : 850/900/1800/1900; 3G : 850/1900/2100&lt;p&gt;\u000d\u000a\u000d\u000aSprint: CDMA : 850/1900MHz&lt;p&gt;\u000d\u000a\u000d\u000aT-Mobile: GSM/EDGE : 850/900/1800/1900; 3G : 1700/1900&lt;p&gt;\u000d\u000a\u000d\u000aVerizon: CDMA : 800MHz/1900MHz",
+      "cell": "AT\x26T: GSM/EDGE : 850/900/1800/1900; 3G : 850/1900/2100&lt;p&gt;\u000d\u000a\u000d\u000aSprint: CDMA : 850/1900MHz&lt;p&gt;\u000d\u000a\u000d\u000aT-Mobile: GSM/EDGE : 850/900/1800/1900; 3G : 1700/1900&lt;p&gt;\u000d\u000a\u000d\u000aVerizon: CDMA : 800MHz/1900MHz",
       "gps": true,
       "infrared": false,
       "wifi": "802.11 b/g/n"
     },
-    "description": "Feel Free to Tab™. The Samsung Galaxy Tab™, the tablet device that delivers enhanced capabilities with advanced mobility, has a large, perfectly sized, 7.0\" screen that offers plenty of room for the thousands of interactive games and apps available for the Android™ platform, and its slim design makes it perfect for travel and one-handed grip. Use the Galaxy Tab to relax and enjoy an e-book, watch rich video or full web content with its Adobe® Flash® Player compatibility, video chat using the front-facing camera, or send user-generated content wirelessly to other devices like your TV via AllShare™.  With so many options for customization and interactivity, the Galaxy Tab gives you everything you want, anywhere you go…Feel Free to Tab™.",
+    "description": "Feel Free to Tab\u2122. The Samsung Galaxy Tab\u2122, the tablet device that delivers enhanced capabilities with advanced mobility, has a large, perfectly sized, 7.0\" screen that offers plenty of room for the thousands of interactive games and apps available for the Android\u2122 platform, and its slim design makes it perfect for travel and one-handed grip. Use the Galaxy Tab to relax and enjoy an e-book, watch rich video or full web content with its Adobe\xAE Flash\xAE Player compatibility, video chat using the front-facing camera, or send user-generated content wirelessly to other devices like your TV via AllShare\u2122.  With so many options for customization and interactivity, the Galaxy Tab gives you everything you want, anywhere you go…Feel Free to Tab\u2122.",
     "display": {
       "screenResolution": "WSVGA (1024 x 600)",
       "screenSize": "7.0 inches",
@@ -622,8 +622,8 @@ var rawPhones = [
     "id": "samsung-showcase-a-galaxy-s-phone",
     "age": 9,
     "imageUrl": "./img/phones/samsung-showcase-a-galaxy-s-phone.0.jpg",
-    "name": "Samsung Showcase™ a Galaxy S™ phone",
-    "snippet": "The Samsung Showcase™ delivers a cinema quality experience like you’ve never seen before. Its innovative 4” touch display technology provides rich picture brilliance, even outdoors",
+    "name": "Samsung Showcase\u2122 a Galaxy S\u2122 phone",
+    "snippet": "The Samsung Showcase\u2122 delivers a cinema quality experience like you’ve never seen before. Its innovative 4\x22 touch display technology provides rich picture brilliance, even outdoors",
     "additionalFeatures": "Swype",
     "android": {
       "os": "Android 2.1",
@@ -651,7 +651,7 @@ var rawPhones = [
       "infrared": false,
       "wifi": "802.11 b/g/n"
     },
-    "description": "Experience entertainment in a whole new light. The stylish and slim Samsung Showcase™, with its vivid 4-inch Super AMOLED™ display, makes everything from Hollywood blockbusters to music videos to Amazon’s bestsellers look absolutely brilliant – even outside in the sun. Android™ Market rockets you into a universe filled with equally brilliant apps; download them at blistering speeds thanks to the powerful 1GHz Hummingbird processor. Keep your social life organized and continuously updated with the pre-loaded social networking apps, while uploading all the 5.0MP pics you’ve snapped and 720p HD videos you’ve recorded",
+    "description": "Experience entertainment in a whole new light. The stylish and slim Samsung Showcase\u2122, with its vivid 4-inch Super AMOLED\u2122 display, makes everything from Hollywood blockbusters to music videos to Amazon’s bestsellers look absolutely brilliant – even outside in the sun. Android\u2122 Market rockets you into a universe filled with equally brilliant apps; download them at blistering speeds thanks to the powerful 1GHz Hummingbird processor. Keep your social life organized and continuously updated with the pre-loaded social networking apps, while uploading all the 5.0MP pics you’ve snapped and 720p HD videos you’ve recorded",
     "display": {
       "screenResolution": "WVGA (800 x 480)",
       "screenSize": "4.0 inches",
@@ -688,7 +688,7 @@ var rawPhones = [
     "id": "droid-2-global-by-motorola",
     "age": 10,
     "imageUrl": "./img/phones/droid-2-global-by-motorola.0.jpg",
-    "name": "DROID™ 2 Global by Motorola",
+    "name": "DROID\u2122 2 Global by Motorola",
     "snippet": "The first smartphone with a 1.2 GHz processor and global capabilities.",
     "additionalFeatures": "Adobe Flash Player 10, Quadband GSM Worldphone, Advance Business Security, Complex Password Secure, Review & Edit Documents with Quick Office, Personal 3G Mobile Hotspot for up to 5 WiFi enabled Devices, Advanced Social Networking brings all social content into a single homescreen widget",
     "android": {
@@ -754,7 +754,7 @@ var rawPhones = [
     "id": "droid-pro-by-motorola",
     "age": 11,
     "imageUrl": "./img/phones/droid-pro-by-motorola.0.jpg",
-    "name": "DROID™ Pro by Motorola",
+    "name": "DROID\u2122 Pro by Motorola",
     "snippet": "The next generation of DOES.",
     "additionalFeatures": "Adobe Flash Player 10, Quadband GSM Worldphone, Advance Business Security, Complex Password Secure, Review & Edit Documents with Quick Office, Personal 3G Mobile Hotspot for up to 5 WiFi enabled Devices, Advanced Social Networking brings all social content into a single homescreen widget",
     "android": {
@@ -783,7 +783,7 @@ var rawPhones = [
       "infrared": false,
       "wifi": "802.11 b/g/n"
     },
-    "description": "Access your work directory, email or calendar with DROID Pro by Motorola., an Android-for-business smartphone with corporate-level security. It features both a QWERTY keyboard and touchscreen, a speedy 1 GHz processor and Adobe® Flash® Player 10.",
+    "description": "Access your work directory, email or calendar with DROID Pro by Motorola., an Android-for-business smartphone with corporate-level security. It features both a QWERTY keyboard and touchscreen, a speedy 1 GHz processor and Adobe\xAE Flash\xAE Player 10.",
     "display": {
       "screenResolution": "HVGA (480 x 320)",
       "screenSize": "3.1 inches",
@@ -819,15 +819,15 @@ var rawPhones = [
     "id": "motorola-bravo-with-motoblur",
     "age": 12,
     "imageUrl": "./img/phones/motorola-bravo-with-motoblur.0.jpg",
-    "name": "MOTOROLA BRAVO™ with MOTOBLUR™",
+    "name": "MOTOROLA BRAVO\u2122 with MOTOBLUR\u2122",
     "snippet": "An experience to cheer about.",
-    "additionalFeatures": "Adobe® Flash® Lite® 3, DNLA, CrystalTalk™ PLUS technology",
+    "additionalFeatures": "Adobe\xAE Flash\xAE Lite\xAE 3, DNLA, CrystalTalk\u2122 PLUS technology",
     "android": {
       "os": "Android 2.1",
-      "ui": "MOTOBLUR™"
+      "ui": "MOTOBLUR\u2122"
     },
     "availability": [
-      "AT&amp;T"
+      "AT\x26T"
     ],
     "battery": {
       "standbyTime": "216 hours",
@@ -847,7 +847,7 @@ var rawPhones = [
       "infrared": false,
       "wifi": "802.11 b/g/n"
     },
-    "description": "MOTOROLA BRAVO™ with MOTOBLUR™ with its large 3.7-inch touchscreen and web-browsing capabilities is sure to make an impression.  And it keeps your life updated and secure through MOTOBLUR.",
+    "description": "MOTOROLA BRAVO\u2122 with MOTOBLUR\u2122 with its large 3.7-inch touchscreen and web-browsing capabilities is sure to make an impression.  And it keeps your life updated and secure through MOTOBLUR.",
     "display": {
       "screenResolution": "WVGA (800 x 480)",
       "screenSize": "3.7 inches",
@@ -884,9 +884,9 @@ var rawPhones = [
     "id": "motorola-defy-with-motoblur",
     "age": 13,
     "imageUrl": "./img/phones/motorola-defy-with-motoblur.0.jpg",
-    "name": "Motorola DEFY™ with MOTOBLUR™",
+    "name": "Motorola DEFY\u2122 with MOTOBLUR\u2122",
     "snippet": "Are you ready for everything life throws your way?",
-    "additionalFeatures": "Blockbuster On Demand® movies and music downloads with connected music player\u000aWater-resistant and dustproof",
+    "additionalFeatures": "Blockbuster On Demand\xAE movies and music downloads with connected music player\u000aWater-resistant and dustproof",
     "android": {
       "os": "Android 2.1",
       "ui": "MOTOBLUR"
@@ -957,7 +957,7 @@ var rawPhones = [
     "additionalFeatures": "Mobile Video Chat, HD Camcorder, Screen Share (DLNA), Genius Button, Wi-Fi Calling, Wi-Fi HotSpot, T-Mobile TV, Slacker Radio, Rock Band, Monopoly, Asphalt 5, myModes, Faves Gallery",
     "android": {
       "os": "Android 2.2",
-      "ui": "HTC Sense™"
+      "ui": "HTC Sense\u2122"
     },
     "availability": [
       "T-Mobile"
@@ -1021,8 +1021,8 @@ var rawPhones = [
     "id": "samsung-mesmerize-a-galaxy-s-phone",
     "age": 15,
     "imageUrl": "./img/phones/samsung-mesmerize-a-galaxy-s-phone.0.jpg",
-    "name": "Samsung Mesmerize™ a Galaxy S™ phone",
-    "snippet": "The Samsung Mesmerize™ delivers a cinema quality experience like you’ve never seen before. Its innovative 4” touch display technology provides rich picture brilliance,even outdoors",
+    "name": "Samsung Mesmerize\u2122 a Galaxy S\u2122 phone",
+    "snippet": "The Samsung Mesmerize\u2122 delivers a cinema quality experience like you've never seen before. Its innovative 4\x22 touch display technology provides rich picture brilliance,even outdoors",
     "additionalFeatures": "Swype",
     "android": {
       "os": "Android 2.1",
@@ -1050,7 +1050,7 @@ var rawPhones = [
       "infrared": false,
       "wifi": "802.11 b/g/n"
     },
-    "description": "Experience entertainment in a whole new light. The stylish and slim Samsung Mesmerize™, with its vivid 4-inch Super AMOLED™ display, makes everything from Hollywood blockbusters to music videos to Amazon’s bestsellers look absolutely brilliant – even outside in the sun. Android™ Market rockets you into a universe filled with equally brilliant apps; download them at blistering speeds thanks to the powerful 1GHz Hummingbird processor. Keep your social life organized and continuously updated with the pre-loaded social networking apps, while uploading all the 5.0MP pics you’ve snapped and 720p HD videos you’ve recorded.",
+    "description": "Experience entertainment in a whole new light. The stylish and slim Samsung Mesmerize\u2122, with its vivid 4-inch Super AMOLED\u2122 display, makes everything from Hollywood blockbusters to music videos to Amazon’s bestsellers look absolutely brilliant – even outside in the sun. Android\u2122 Market rockets you into a universe filled with equally brilliant apps; download them at blistering speeds thanks to the powerful 1GHz Hummingbird processor. Keep your social life organized and continuously updated with the pre-loaded social networking apps, while uploading all the 5.0MP pics you’ve snapped and 720p HD videos you’ve recorded.",
     "display": {
       "screenResolution": "WVGA (800 x 480)",
       "screenSize": "4.0 inches",
@@ -1153,8 +1153,8 @@ var rawPhones = [
     "id": "samsung-transform",
     "age": 17,
     "imageUrl": "./img/phones/samsung-transform.0.jpg",
-    "name": "Samsung Transform™",
-    "snippet": "The Samsung Transform™ brings you a fun way to customize your Android powered touch screen phone to just the way you like it through your favorite themed “Sprint ID Service Pack”.",
+    "name": "Samsung Transform\u2122",
+    "snippet": "The Samsung Transform\u2122 brings you a fun way to customize your Android powered touch screen phone to just the way you like it through your favorite themed \u201CSprint ID Service Pack\u201D.",
     "additionalFeatures": "Access to Sprint ID Service Packs, front and rear facing cameras\u000a",
     "android": {
       "os": "Android 2.1",
@@ -1182,7 +1182,7 @@ var rawPhones = [
       "infrared": false,
       "wifi": "802.11 b/g/n"
     },
-    "description": "Change your perspective.  The Samsung Transform™ is an Android powered device that delivers the truly customizable experience you want your phone to provide.  Enjoy a new and easy way to personalize your device for business or for entertainment, showcasing your own favorite theme and more through the new open software platform and the ability to download individual ‘Sprint ID Service Packs’ that combine and deliver multiple content items and applications specifically for the features you want.  Combine this with the 3.5” touch display, QWERTY keyboard, high-speed processor, and both a front and rear facing camera to bring your unique mobile experience to life.",
+    "description": "Change your perspective.  The Samsung Transform\u2122 is an Android powered device that delivers the truly customizable experience you want your phone to provide.  Enjoy a new and easy way to personalize your device for business or for entertainment, showcasing your own favorite theme and more through the new open software platform and the ability to download individual ‘Sprint ID Service Packs’ that combine and deliver multiple content items and applications specifically for the features you want.  Combine this with the 3.5\x22 touch display, QWERTY keyboard, high-speed processor, and both a front and rear facing camera to bring your unique mobile experience to life.",
     "display": {
       "screenResolution": "HVGA (480 x 320)",
       "screenSize": "3.5 inches",
@@ -1259,7 +1259,7 @@ var rawPhones = [
     "hardware": {
       "accelerometer": true,
       "audioJack": "3.5mm",
-      "cpu": "800 MHz Qualcomm® Snapdragon™ MSM7230",
+      "cpu": "800 MHz Qualcomm\xAE Snapdragon\u2122 MSM7230",
       "fmRadio": false,
       "physicalKeyboard": true,
       "usb": "USB 2.0"
@@ -1287,9 +1287,9 @@ var rawPhones = [
     "id": "motorola-charm-with-motoblur",
     "age": 19,
     "imageUrl": "./img/phones/motorola-charm-with-motoblur.0.jpg",
-    "name": "Motorola CHARM™ with MOTOBLUR™",
+    "name": "Motorola CHARM\u2122 with MOTOBLUR\u2122",
     "snippet": "Motorola CHARM fits easily in your pocket or palm.  Includes MOTOBLUR service.",
-    "additionalFeatures": "MOTOBLUR-enabled; battery manager; seven home screens; customize by moving or resizing widgets; Android HTML WebKit w/Flash Lite; BACKTRACK™ navigation pad behind screen",
+    "additionalFeatures": "MOTOBLUR-enabled; battery manager; seven home screens; customize by moving or resizing widgets; Android HTML WebKit w/Flash Lite; BACKTRACK\u2122 navigation pad behind screen",
     "android": {
       "os": "Android 2.1",
       "ui": "MOTOBLUR"
