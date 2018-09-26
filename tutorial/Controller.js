@@ -42,11 +42,6 @@ foam.CLASS({
 
   methods: [
     function initE() {
-      this.initHTML();
-      window.addEventListener('hashchange', this.initHTML.bind(this));
-    },
-
-    function initHTML() {
       var self = this;
       this.removeAllChildren();
 
@@ -66,6 +61,14 @@ foam.CLASS({
             .addClass('phones').add(this.FILTERED_DAO)
           .end();
       }
+
+      window.addEventListener('hashchange', this.onHashChange);
+    }
+  ],
+
+  listeners: [
+    function onHashChange() {
+      this.initE();
     }
   ]
 });
@@ -84,8 +87,9 @@ foam.CLASS({
       var self = this;
       this.image = this.data.imageUrl;
       function checkmark(b) { return b ? '\u2713' : '\u2718'; }
-      console.log('Found phone: ' + this.data.id);
       this
+        .start(this.BACK)
+        .end()
         .start('div')
           .start({ class: 'foam.u2.tag.Image', data: this.image$ })
             .addClass('phone_images').end()
@@ -353,7 +357,16 @@ foam.CLASS({
               .add(this.data.additionalFeatures)
             .end()
           .end()
-        .end()
+        .end();
+    }
+  ],
+
+  actions: [
+    {
+      name: 'back',
+      code: function() {
+        window.location.hash = '';
+      }
     }
   ]
 });
